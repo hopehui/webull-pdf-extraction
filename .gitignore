@@ -1,0 +1,11 @@
+# DotEnv config
+.env
+
+# Jupyter NB checkpoints
+.ipynb_checkpoints/
+
+# Mac OS-specific storage files
+.DS_Store
+
+# data
+/data/
